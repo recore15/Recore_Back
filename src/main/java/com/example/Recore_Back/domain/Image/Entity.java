@@ -1,4 +1,4 @@
-package com.example.Recore_Back.RecipeImage;
+package com.example.Recore_Back.domain.Image;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;

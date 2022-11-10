@@ -1,4 +1,4 @@
-package com.example.Recore_Back.HowTo;
+package com.example.Recore_Back.domain.HowTo;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;

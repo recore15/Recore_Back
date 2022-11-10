@@ -1,4 +1,4 @@
-package com.example.Recore_Back.GoodEffect;
+package com.example.Recore_Back.domain.GoodEffect;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
