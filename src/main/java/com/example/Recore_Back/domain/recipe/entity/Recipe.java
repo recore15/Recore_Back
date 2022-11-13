@@ -26,7 +26,7 @@ public class Recipe {
     @JoinColumn(name="USER_ID")
     private User user;
 
-    @OneToMany(mappedBy="recipe")
-    private List<Image> images=new ArrayList<Image>();
+//    @OneToMany(mappedBy="recipe")
+//    private List<Image> images=new ArrayList<Image>();
 
 }
